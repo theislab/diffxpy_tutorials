@@ -1,2 +1,1 @@
-# diffxpy_tutorials
-Tutorials for diffxpy.
+Tutorials for [diffxpy](https://github.com/theislab/diffxpy).
