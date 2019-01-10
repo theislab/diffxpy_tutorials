@@ -1,0 +1,6 @@
+README.md
+diffxpy_tutorials.egg-info/PKG-INFO
+diffxpy_tutorials.egg-info/SOURCES.txt
+diffxpy_tutorials.egg-info/dependency_links.txt
+diffxpy_tutorials.egg-info/requires.txt
+diffxpy_tutorials.egg-info/top_level.txt
