@@ -8,6 +8,6 @@ setup(
     author_email='david.fischer@helmholtz-muenchen.de',
     packages=find_packages(),
     install_requires=[
-        'diffxpy'
+        'diffxpy>=0.6.7'
     ],
 )
